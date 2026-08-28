@@ -22,7 +22,7 @@ The most common and obvious reason users exist is to have the means to access th
 <figure>
     <img src="/img/users-index.webp" alt="List of Statamic Control Panel users" class="u-hide-in-dark-mode">
     <img src="/img/users-index-dark.webp" alt="List of Statamic Control Panel users" class="u-hide-in-light-mode">
-    <figcaption>Why hasn't the Hoff logged in? And why is he inpersonating Jason?</figcaption>
+    <figcaption>Why hasn't the Hoff logged in? And why is he impersonating Jason?</figcaption>
 </figure>
 
 ## Creating users
